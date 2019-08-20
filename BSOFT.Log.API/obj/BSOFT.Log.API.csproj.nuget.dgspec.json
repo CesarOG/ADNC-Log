@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.API\\BSOFT.Log.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.API\\BSOFT.Log.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.API\\BSOFT.Log.API.csproj",
+        "projectName": "BSOFT.Log.API",
+        "projectPath": "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.API\\BSOFT.Log.API.csproj",
+        "packagesPath": "C:\\Users\\CESAR\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CESAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.Logging\\BSOFT.Log.Logging.csproj": {
+                "projectPath": "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.Logging\\BSOFT.Log.Logging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "SharpRaven": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.Logging\\BSOFT.Log.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.Logging\\BSOFT.Log.Logging.csproj",
+        "projectName": "BSOFT.Log.Logging",
+        "projectPath": "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.Logging\\BSOFT.Log.Logging.csproj",
+        "packagesPath": "C:\\Users\\CESAR\\.nuget\\packages\\",
+        "outputPath": "D:\\Cursos Especializacion\\BSoft\\APP\\BSOFT.Log\\BSOFT.Log.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CESAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.Logging\bin\Debug\netstandard2.0\BSOFT.Log.Logging.deps.json
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.Logging\bin\Debug\netstandard2.0\BSOFT.Log.Logging.dll
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.Logging\bin\Debug\netstandard2.0\BSOFT.Log.Logging.pdb
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.dll
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.pdb
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.Logging\bin\Debug\netstandard2.0\BSOFT.Log.Logging.deps.json
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.Logging\bin\Debug\netstandard2.0\BSOFT.Log.Logging.dll
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.Logging\bin\Debug\netstandard2.0\BSOFT.Log.Logging.pdb
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.csprojAssemblyReference.cache
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.csproj.CoreCompileInputs.cache
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.AssemblyInfoInputs.cache
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.AssemblyInfo.cs
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.dll
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.Logging\obj\Debug\netstandard2.0\BSOFT.Log.Logging.pdb

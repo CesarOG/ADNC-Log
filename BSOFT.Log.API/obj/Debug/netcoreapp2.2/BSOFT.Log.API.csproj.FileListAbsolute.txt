@@ -1,0 +1,34 @@
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.API.deps.json
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.API.runtimeconfig.json
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.API.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.API.dll
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.API.pdb
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.Logging.dll
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.Logging.pdb
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.RazorAssemblyInfo.cache
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.RazorAssemblyInfo.cs
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.csproj.CopyComplete
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.dll
+C:\Users\Ivan\Desktop\NET CORE CURSO\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.pdb
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.API.deps.json
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.API.runtimeconfig.json
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.API.runtimeconfig.dev.json
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.API.dll
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.API.pdb
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.Logging.dll
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\bin\Debug\netcoreapp2.2\BSOFT.Log.Logging.pdb
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.csprojAssemblyReference.cache
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.csproj.CoreCompileInputs.cache
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.RazorAssemblyInfo.cache
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.RazorAssemblyInfo.cs
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.AssemblyInfoInputs.cache
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.AssemblyInfo.cs
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.RazorTargetAssemblyInfo.cache
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.csproj.CopyComplete
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.dll
+D:\Cursos Especializacion\BSoft\APP\BSOFT.Log\BSOFT.Log.API\obj\Debug\netcoreapp2.2\BSOFT.Log.API.pdb
